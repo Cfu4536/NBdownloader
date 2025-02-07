@@ -2,7 +2,7 @@
   "TEMP_DIR": "./temp",
   "OUTPUTS_DIR": "./outputs",
   "COOKIES": {
-    "BILIBILI": "buvid4=9640C5A8-116A-C432-312E-CBE4F8CF79EB59619-023090322-h0Kdr2Rwgtewn%2FDBgzMvHw%3D%3D; header_theme_version=CLOSE; DedeUserID=697802581; DedeUserID__ckMd5=697d68db58778e35; buvid_fp_plain=undefined; enable_web_push=DISABLE; LIVE_BUVID=AUTO2117059255244698; FEED_LIVE_VERSION=V_WATCHLATER_PIP_WINDOW3; _uuid=F678E935-A74E-E27B-343A-556E971741BD01644infoc; buvid3=99B08EDA-BCE5-7C60-404F-BCBD749E483C00820infoc; b_nut=1728547100; rpdid=|(u)YkJYmkJ|0J'u~k))m|~u); hit-dyn-v2=1; fingerprint=7619a88c6540351a2043ca3def59a66c; buvid_fp=7619a88c6540351a2043ca3def59a66c; PVID=1; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzc1NjA1NjcsImlhdCI6MTczNzMwMTMwNywicGx0IjotMX0.cnIIRkRYRfrld8cm_7n41OFTuVD2559x_5N2Kb3KyUU; bili_ticket_expires=1737560507; SESSDATA=2f7f54f5%2C1752853367%2C5d46b%2A12CjCy98E_-5UNTi_EmBONE2tQdRyosuzfM_8lpEAafJp7sr2elkwirqx4GpkGw0aiE9USVnRBeVk5UlhEZ0VBam1CcUlDMWNkVVZCaEw3U0wySFUxa1RtR04xZ1E0SFVYdGhpeFpaQmE0ckVEdVF0R0REdmd3NUdWMVVNVFRQOFVkSHNCeXNlS1B3IIEC; bili_jct=a74ac2b867b162a2c2769f96dacbc06f; sid=54s06wjr; home_feed_column=5; CURRENT_QUALITY=80; bmg_af_switch=1; bmg_src_def_domain=i1.hdslb.com; browser_resolution=1528-756; b_lsid=FDB9D518_19483DE1046; bp_t_offset_697802581=1024526648453627904; CURRENT_FNVAL=4048"
+    "BILIBILI": "",
   },
   "max_threads": 3
 }
