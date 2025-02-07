@@ -12,3 +12,13 @@
 ![image-20250207224552595](NBdownloader.assets/image-20250207224552595.png)
 
 ![image-20250207224556179](NBdownloader.assets/image-20250207224556179.png)
+
+## 如何运行源码
+
+* 下载FFmpeg至bin文件夹
+* 运行脚本
+
+```shell
+python main.py
+```
+
